@@ -3,8 +3,8 @@ Food API project-
 #Description-
  This project aims to provide a user-friendly interface for accessing food-related data through an API. The application is built using Angular framework and offers the following features:
 
-1. Search Bar
-The application includes a search bar that allows users to search for specific food items or related information and the system will display the relevant results based on the search input.
+1. filter
+The application includes a filter that allows users to filter for specific food items or related information and the system will display the relevant results based on the search input.
 
 
 2. Sorting by ID in Increasing Order
