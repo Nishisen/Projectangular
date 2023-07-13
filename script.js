@@ -104,7 +104,7 @@ app.controller('loginController', ['$scope', '$location', '$rootScope', 'userSer
             $scope.login_email=null;
             $scope.login_password=null;
         }else{
-            $location.path('/dashboard')
+            $location.path('/home')
             
         }
     }

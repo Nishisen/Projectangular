@@ -43,7 +43,7 @@
         </div>
 
         <div class="product-fav">
-          <button ng-if="isThereInFav(x)" ng-click="addToFav(x)">
+          <button ng-if="isThereInFav(x)" ng-click="removeFromFav(x)">
             Remove Fav
           </button>
           <button ng-if="!isThereInFav(x)" ng-click="addToFav(x)">
