@@ -1,4 +1,11 @@
 Food API project-
+#technologies used-
+1.HTML
+2.CSS
+3.Javascript
+4.AngularJS
+
+
 
 #Description-
  This project aims to provide a user-friendly interface for accessing food-related data through an API. The application is built using Angular framework and offers the following features:
