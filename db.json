@@ -6,7 +6,32 @@
       "author": "typicode"
     }
   ],
-  "favs": [],
+  "favs": [
+    {
+      "id": 253193,
+      "title": "Fried Rice w/ Chicken - Original",
+      "image": "https://images.spoonacular.com/file/wximages/253193-312x231.jpg",
+      "imageType": "jpg",
+      "restaurantChain": "Pei Wei Asian Diner",
+      "servings": {
+        "number": 1,
+        "size": null,
+        "unit": null
+      }
+    },
+    {
+      "id": 419357,
+      "title": "Burger Sliders",
+      "image": "https://images.spoonacular.com/file/wximages/419357-312x231.png",
+      "imageType": "png",
+      "restaurantChain": "Hooters",
+      "servings": {
+        "number": 1,
+        "size": null,
+        "unit": null
+      }
+    }
+  ],
   "comments": [
     {
       "id": 1,
@@ -38,6 +63,18 @@
     },
     {
       "id": 4
+    },
+    {
+      "name": "nishi",
+      "email": "nishi@gmail.com",
+      "password": "Nishi@12",
+      "id": 5
+    },
+    {
+      "name": "01Preeti",
+      "email": "preeti@gmail.com",
+      "password": "Preet@12",
+      "id": 6
     }
   ],
   "profile": {
