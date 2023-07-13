@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "favs": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some",
+      "postId": 1
+    },
+    {
+      "id": 1,
+      "body": "some type",
+      "postId": 1
+    },
+    {
+      "email": "prakharsen2202@gmail.com",
+      "password": "Nishisen@12",
+      "id": 2
+    },
+    {
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "Demo@12",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

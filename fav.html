@@ -1,0 +1,30 @@
+<div class="products">
+
+    <div>
+       
+        <div class="products">
+            <div class="products">
+                <div class="product" ng-repeat="x in favProducts">
+                    <div ng-click="sendSingleProduct(x)">
+                    <div class="product-image">
+                        <img src="{{x.image}}" alt="">
+                    </div>
+                    <div class="product-title">
+                        {{x.title}}
+                    </div>
+                    <div class="product-id">
+                        {{x.id}}
+                    </div>
+                    <div class="product-description">
+                        {{x.name}}
+                    </div>
+
+                    
+                </div>
+                <div class="product-fav">
+                    <button ng-click="removeFromFav(x)">Remove Fav</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
